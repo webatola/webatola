@@ -1,32 +1,14 @@
-# Hello there 👋, Welcome to Webatola!
+Webatola is an independent software studio from Czechia. We make narrow tools that do one job and charge by use. Right now that means data tools for Google Trends and App Store research, published on Apify.
 
-At Webatola, we're passionate about crafting high-performing, SEO-optimized websites that boost digital presence and fuel business growth. 🚀
+### Tools
 
-## What We Do 🌍
+- [Google Trends Trending Now Scraper](https://apify.com/webatola/google-trends-trending-now): daily trending searches by country, with volume, start time and related news.
+- [App Store Top Charts Scraper](https://apify.com/webatola/app-store-charts): top free and paid iPhone apps for any country.
+- [App Store Keyword Rank Tracker](https://apify.com/webatola/app-store-search): where apps rank for a keyword, for ASO and rank history.
+- [App Store & Google Trends MCP Server](https://apify.com/webatola/app-store-trends-mcp-server): the same data as tools for Claude, Cursor or your own agent. Setup notes are in [app-store-trends-mcp](https://github.com/webatola/app-store-trends-mcp).
 
-- 💼 Craft unique, aesthetically pleasing, and functional web solutions.
-- 🔍 Utilize SEO best practices to drive traffic and engagement.
-- 🚀 Aid businesses in their digital transformation journey.
+### Ground rules
 
-## Our Values
+Public data only, through official endpoints where they exist. No logins, no captcha workarounds, no personal data. Field names stay stable between versions, so exports and spreadsheet formulas keep working.
 
-- 🌟 Excellence and innovation
-- 🙏 Transparency and honesty
-- 💪 Collaboration and empowerment
-
-## Our Services
-
-- 📐 **Tailored Web Development:** Unique, efficient, and responsive websites with Next.js and Strapi. Your online identity, crafted.
-- 📝 **Content Empowerment:** Update content at your pace with our CMS. For a hands-off approach, we offer update services.
-- 🧰 **Ongoing Support & Maintenance:** Consistent technical support and maintenance for a smooth, engaging user experience.
-- 📈 **Visibility & Insight:** SEO-optimized websites for greater visibility. Gain performance insights with our reports.
-
-## How to Reach Us
-
-📧 You can email us at hello@webatola.com or use the [contact form](https://webatola.com#contact) on our website.
-
-🖥️ Check out our portfolio [here](https://webatola.com#portfolio) to see the work we've done!
-
-📱 Also, don't forget to connect with us on [Instagram](https://instagram.com/webatola).
-
-Thanks for stopping by!
+Bugs and feature requests go to the Issues tab on the tool's Apify page. Anything else: hello@webatola.com, or see [webatola.com](https://www.webatola.com).
